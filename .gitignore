@@ -1,12 +1,25 @@
+# Build
 build/
-bin/
-obj/
-.*o
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+
+# Make
+*.o
 *.a
 *.so
-*.out
+
+# Executables
+poslab
+
+# Logs
 *.log
-*.swp
-*.bak
+
+# VSCode
 .vscode/
-.idea/
+
+# Temporary
+*.swp
