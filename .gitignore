@@ -1,0 +1,12 @@
+build/
+bin/
+obj/
+.*o
+*.a
+*.so
+*.out
+*.log
+*.swp
+*.bak
+.vscode/
+.idea/
